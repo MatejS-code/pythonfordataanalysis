@@ -15,4 +15,4 @@ Tasks completed:
 - Performed data exploration
 - Performed aggregations to create dataframes for investors
 
-Code for Project 1: amazonsalesproject.py
+Code for Project 1: Amazon_sales_project.py
