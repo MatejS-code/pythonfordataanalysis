@@ -1,7 +1,5 @@
 # Python for Data Analysis
 
-This is my repo for all my Python projects
-
 Project 1: Analyzing Amazon Sales Data
 
 In this project I answered the requested business questions: 
